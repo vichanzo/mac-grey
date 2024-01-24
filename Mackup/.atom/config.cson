@@ -1,0 +1,10 @@
+"*":
+  core:
+    reopenProjectMenuCount: 5
+    telemetryConsent: "no"
+  "exception-reporting":
+    userId: "0f8856f4-244b-4691-834b-8a0bbfe7b659"
+  "tree-view":
+    hideVcsIgnoredFiles: true
+  welcome:
+    showOnStartup: false

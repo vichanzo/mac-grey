@@ -1,0 +1,74 @@
+
+*** Volume state at transcript start 2021-09-22 13:53:21 -0700 ***
+
+    Disk: "APPLE SSD SM1024L Media" device: disk0 protocol: PCI-Express capacity: 1 TB
+    Disk: "EFI" device: disk0s1 file system: 'MS-DOS (FAT32)' protocol: PCI-Express capacity: 314.6 MB
+    Volume: "OSXRESERVED" mount: '/Volumes/OSXRESERVED' device: disk0s2 file system: 'ExFAT' protocol: PCI-Express capacity: 10 GB available: 4.55 GB
+    Disk: "Untitled 3" device: disk0s3 protocol: PCI-Express capacity: 732 GB
+    Volume: "OSXRESERVED" mount: '/Volumes/OSXRESERVED 1' device: disk0s4 file system: 'ExFAT' protocol: PCI-Express capacity: 10 GB available: 3.79 GB
+    Volume: "BOOTCAMP" mount: '/Volumes/BOOTCAMP' device: disk0s5 file system: 'Windows NT File System (NTFS)' protocol: PCI-Express capacity: 118.24 GB available: 66.59 GB files: 367,480 directories: 122,493
+    Disk: "AppleAPFSMedia" device: disk1 protocol: PCI-Express capacity: 732 GB
+    Volume: "Macintosh HD" mount: '/' device: disk1s5s1 file system: 'APFS' protocol: PCI-Express OS: 10.16 capacity: 732 GB available: 568.61 GB files: 426,770 directories: 120,911
+    Volume: "Macintosh HD - Data" mount: '/System/Volumes/Data' device: disk1s1 file system: 'APFS (Encrypted)' protocol: PCI-Express capacity: 732 GB available: 568.61 GB files: 947,690 directories: 104,926
+    Volume: "Preboot" mount: '/System/Volumes/Preboot' device: disk1s2 file system: 'APFS' protocol: PCI-Express capacity: 732 GB available: 568.61 GB files: 587 directories: 203
+    Disk: "Recovery" device: disk1s3 file system: 'APFS' protocol: PCI-Express capacity: 732 GB
+    Volume: "VM" mount: '/System/Volumes/VM' device: disk1s4 file system: 'APFS' protocol: PCI-Express capacity: 732 GB available: 568.61 GB files: 2 directories: 0
+    Volume: "Macintosh HD" mount: '/System/Volumes/Update/mnt1' device: disk1s5 file system: 'APFS' protocol: PCI-Express OS: 11.5.2 capacity: 732 GB available: 568.61 GB files: 426,770 directories: 120,913
+    Volume: "Update" mount: '/System/Volumes/Update' device: disk1s6 file system: 'APFS' protocol: PCI-Express capacity: 732 GB available: 568.61 GB files: 352 directories: 41
+    Disk: "Seagate BACKUP+ Media" device: disk2 protocol: USB capacity: 500.11 GB
+    Disk: "EFI" device: disk2s1 file system: 'MS-DOS (FAT32)' protocol: USB capacity: 209.7 MB
+    Disk: "Untitled 2" device: disk2s2 protocol: USB capacity: 499.9 GB
+    Disk: "AppleAPFSMedia" device: disk3 protocol: USB capacity: 499.9 GB
+(T) Volume: "Backups" mount: '/Volumes/Backups' device: disk3s1 file system: 'APFS' protocol: USB capacity: 499.9 GB available: 499.74 GB files: 73 directories: 15
+    Disk: "SAMSUNG MZVKW512HMJP-000 Media" device: disk4 protocol: USB capacity: 512.11 GB
+    Disk: "Basic data partition" device: disk4s1 protocol: USB capacity: 554.7 MB
+    Disk: "NO NAME" device: disk4s2 file system: 'MS-DOS (FAT32)' protocol: USB capacity: 104.9 MB
+    Disk: "Microsoft reserved partition" device: disk4s3 protocol: USB capacity: 16.8 MB
+    Disk: "Basic data partition" device: disk4s4 protocol: USB capacity: 510.68 GB
+    Disk: "Untitled 5" device: disk4s5 protocol: USB capacity: 750.8 MB
+    Disk: "AppleAPFSMedia" device: disk5 protocol: USB capacity: 510.68 GB
+(S) Volume: "Backups of C02WK09EHTD9" mount: '/Volumes/Backups of C02WK09EHTD9' device: disk5s2 file system: 'APFS (Case-sensitive)' protocol: USB capacity: 510.68 GB available: 387.77 GB files: 756,564 directories: 96,474
+
+
+*** Volume state at transcript end 2021-09-22 14:12:54 -0700 ***
+
+    Disk: "APPLE SSD SM1024L Media" device: disk0 protocol: PCI-Express capacity: 1 TB
+    Disk: "EFI" device: disk0s1 file system: 'MS-DOS (FAT32)' protocol: PCI-Express capacity: 314.6 MB
+    Volume: "OSXRESERVED" mount: '/Volumes/OSXRESERVED' device: disk0s2 file system: 'ExFAT' protocol: PCI-Express capacity: 10 GB available: 4.55 GB
+    Disk: "Untitled 3" device: disk0s3 protocol: PCI-Express capacity: 732 GB
+    Volume: "OSXRESERVED" mount: '/Volumes/OSXRESERVED 1' device: disk0s4 file system: 'ExFAT' protocol: PCI-Express capacity: 10 GB available: 3.79 GB
+    Volume: "BOOTCAMP" mount: '/Volumes/BOOTCAMP' device: disk0s5 file system: 'Windows NT File System (NTFS)' protocol: PCI-Express capacity: 118.24 GB available: 66.59 GB files: 367,480 directories: 122,493
+    Volume: "Macintosh HD" mount: '/' device: disk1s5s1 file system: 'APFS' protocol: PCI-Express OS: 10.16 capacity: 732 GB available: 569.74 GB files: 426,770 directories: 120,911
+    Disk: "AppleAPFSMedia" device: disk1 protocol: PCI-Express capacity: 732 GB
+    Volume: "Macintosh HD - Data" mount: '/System/Volumes/Data' device: disk1s1 file system: 'APFS (Encrypted)' protocol: PCI-Express capacity: 732 GB available: 569.74 GB files: 947,698 directories: 104,920
+    Volume: "Preboot" mount: '/System/Volumes/Preboot' device: disk1s2 file system: 'APFS' protocol: PCI-Express capacity: 732 GB available: 569.74 GB files: 587 directories: 203
+    Disk: "Recovery" device: disk1s3 file system: 'APFS' protocol: PCI-Express capacity: 732 GB
+    Volume: "VM" mount: '/System/Volumes/VM' device: disk1s4 file system: 'APFS' protocol: PCI-Express capacity: 732 GB available: 569.74 GB files: 2 directories: 0
+    Volume: "Macintosh HD" mount: '/System/Volumes/Update/mnt1' device: disk1s5 file system: 'APFS' protocol: PCI-Express OS: 11.5.2 capacity: 732 GB available: 569.74 GB files: 426,770 directories: 120,913
+    Volume: "Update" mount: '/System/Volumes/Update' device: disk1s6 file system: 'APFS' protocol: PCI-Express capacity: 732 GB available: 569.74 GB files: 352 directories: 41
+    Disk: "Seagate BACKUP+ Media" device: disk2 protocol: USB capacity: 500.11 GB
+    Disk: "EFI" device: disk2s1 file system: 'MS-DOS (FAT32)' protocol: USB capacity: 209.7 MB
+    Disk: "Untitled 2" device: disk2s2 protocol: USB capacity: 499.9 GB
+    Disk: "AppleAPFSMedia" device: disk3 protocol: USB capacity: 499.9 GB
+(T) Volume: "Backups" mount: '/Volumes/Backups' device: disk3s1 file system: 'APFS (Case-sensitive)' protocol: USB capacity: 499.9 GB available: 390.8 GB files: 756,955 directories: 96,478
+    Disk: "Preboot" device: disk3s2 file system: 'APFS' protocol: USB capacity: 499.9 GB
+    Disk: "Recovery" device: disk3s3 file system: 'APFS' protocol: USB capacity: 499.9 GB
+    Disk: "VM" device: disk3s4 file system: 'APFS' protocol: USB capacity: 499.9 GB
+    Disk: "SAMSUNG MZVKW512HMJP-000 Media" device: disk4 protocol: USB capacity: 512.11 GB
+    Disk: "Basic data partition" device: disk4s1 protocol: USB capacity: 554.7 MB
+    Disk: "NO NAME" device: disk4s2 file system: 'MS-DOS (FAT32)' protocol: USB capacity: 104.9 MB
+    Disk: "Microsoft reserved partition" device: disk4s3 protocol: USB capacity: 16.8 MB
+    Disk: "Basic data partition" device: disk4s4 protocol: USB capacity: 510.68 GB
+    Disk: "Untitled 5" device: disk4s5 protocol: USB capacity: 750.8 MB
+    Disk: "AppleAPFSMedia" device: disk5 protocol: USB capacity: 510.68 GB
+(S) Volume: "Backups of C02WK09EHTD9" mount: '/Volumes/Backups of C02WK09EHTD9' device: disk5s2 file system: 'APFS (Case-sensitive)' protocol: USB capacity: 510.68 GB available: 387.77 GB files: 756,564 directories: 96,474
+
+
+*** GUID Map at transcript end 2021-09-22 14:12:54 -0700 ***
+
+GUID                                 Name                                          Volume UUID                          Mounted Hash    Size      
+------------------------------------ --------------------------------------------- ------------------------------------ ------- ------- ----------
+C5074641-0F00-4415-B340-6FD449171530 Backups of C02WK09EHTD9                       F424328C-587A-4775-B7B5-0B4D1AD6C0FA YES     7B5ADAFA 1252 bytes
+1D3BE312-7D18-49E0-B136-8E38F39E3A20 Backups                                       28BCD268-8CC4-4CEB-89B6-67D24D3D05B3 YES     BFB435D5 1256 bytes
+
+(null)

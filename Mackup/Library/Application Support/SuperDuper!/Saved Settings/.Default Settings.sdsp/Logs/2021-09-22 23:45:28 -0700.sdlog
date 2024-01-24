@@ -1,0 +1,90 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2580
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 LucidaGrande;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs20 \cf0 | 11:45:28 PM | Info | SuperDuper! Version 3.3.1 (121-a5db222), path: /Applications/SuperDuper!.app, load address: 0x10d45d000\
+| 11:45:28 PM | Info | Started on Wed, Sep 22, 2021 at 11:45 PM\
+| 11:45:28 PM | Info | Source Volume: "Backups of C02WK09EHTD9" mount: '/Volumes/Backups of C02WK09EHTD9' device: disk5s2 file system: 'APFS (Case-sensitive)' protocol: USB capacity: 510.68 GB available: 374.68 GB files: 793,386 directories: 101,844\
+| 11:45:28 PM | Info | Target Volume: "V" mount: '/Volumes/V' device: disk3s3 file system: 'Mac OS Extended (Journaled)' protocol: USB capacity: 499.97 GB available: 499.53 GB files: 81 directories: 20\
+| 11:45:28 PM | Info | Copy Mode   : Erase, then copy files\
+| 11:45:28 PM | Info | Copy Script : Restore - all files.dset\
+| 11:45:28 PM | Info | Transcript  : BuildTranscript.plist\
+| 11:45:29 PM | Info | PHASE: 1. Prepare to Copy Files\
+| 11:45:29 PM | Info | ...ACTION: Preparing Backups of C02WK09EHTD9\
+| 11:45:29 PM | Info | ......COMMAND => Enabling permissions on Backups of C02WK09EHTD9\
+| 11:45:30 PM | Info |       Permissions are enabled on /Volumes/Backups of C02WK09EHTD9\
+| 11:45:30 PM | Info | ...ACTION: Erasing V\
+| 11:45:30 PM | Info | ......COMMAND => Erasing V\
+| 11:45:30 PM | Info |       Erasing standalone volume\
+| 11:45:30 PM | Info |       Unmounting /dev/disk3s3 mounted on /Volumes/V\
+| 11:45:31 PM | Info |       Volume V on disk3s3 unmounted\
+| 11:45:31 PM | Info |       Started erase on disk3s3 (V)\
+| 11:45:31 PM | Info |       Unmounting disk\
+| 11:45:31 PM | Info |       Erasing\
+| 11:45:33 PM | Info |       Initialized /dev/rdisk3s3 as a 466 GB case-insensitive HFS Plus volume with a 40960k journal\
+| 11:45:33 PM | Info |       Mounting disk\
+| 11:45:35 PM | Info |       Finished erase on disk3s3 (V)\
+| 11:45:35 PM | Info | ...ACTION: Preparing V\
+| 11:45:35 PM | Info | ......COMMAND => Checking APFS Preboot partition for V\
+| 11:45:35 PM | Info | ......COMMAND => Checking APFS Recovery partition for V\
+| 11:45:35 PM | Info | ......COMMAND => Checking APFS Virtual Memory partition for V\
+| 11:45:35 PM | Info | ......COMMAND => Checking APFS Volume Group for V\
+| 11:45:35 PM | Info | ......COMMAND => Enabling permissions on V\
+| 11:45:35 PM | Info |       /dev/disk1s5s1 on / (apfs, sealed, local, read-only, journaled)\
+| 11:45:35 PM | Info |       devfs on /dev (devfs, local, nobrowse)\
+| 11:45:35 PM | Info |       /dev/disk1s4 on /System/Volumes/VM (apfs, local, noexec, journaled, noatime, nobrowse)\
+| 11:45:35 PM | Info |       /dev/disk1s2 on /System/Volumes/Preboot (apfs, local, journaled, nobrowse)\
+| 11:45:35 PM | Info |       /dev/disk1s6 on /System/Volumes/Update (apfs, local, journaled, nobrowse)\
+| 11:45:35 PM | Info |       /dev/disk1s1 on /System/Volumes/Data (apfs, local, journaled, nobrowse)\
+| 11:45:35 PM | Info |       /dev/disk0s2 on /Volumes/OSXRESERVED (exfat, asynchronous, local, noowners)\
+| 11:45:35 PM | Info |       /dev/disk0s4 on /Volumes/OSXRESERVED 1 (exfat, asynchronous, local, noowners)\
+| 11:45:35 PM | Info |       /dev/disk0s5 on /Volumes/BOOTCAMP (ntfs, local, read-only, noowners)\
+| 11:45:35 PM | Info |       map auto_home on /System/Volumes/Data/home (autofs, automounted, nobrowse)\
+| 11:45:35 PM | Info |       /dev/disk1s5 on /System/Volumes/Update/mnt1 (apfs, sealed, local, journaled, nobrowse)\
+| 11:45:35 PM | Info |       /dev/disk2s2 on /Volumes/MacCPUID (hfs, local, nodev, nosuid, noowners, quarantine, mounted by chanvk)\
+| 11:45:35 PM | Info |       com.apple.TimeMachine.2021-07-21-152846.backup@/dev/disk5s2 on /Volumes/.timemachine/F424328C-587A-4775-B7B5-0B4D1AD6C0FA/2021-07-21-152846.backup (apfs, local, read-only, journaled, nobrowse)\
+| 11:45:35 PM | Info |       /dev/disk5s2 on /Volumes/Backups of C02WK09EHTD9 (apfs, local, nodev, nosuid, journaled)\
+| 11:45:35 PM | Info |       com.apple.TimeMachine.2021-09-20-130633.backup@/dev/disk5s2 on /Volumes/.timemachine/F424328C-587A-4775-B7B5-0B4D1AD6C0FA/2021-09-20-130633.backup (apfs, local, read-only, journaled, nobrowse)\
+| 11:45:35 PM | Info |       com.apple.TimeMachine.2021-09-20-163240.backup@/dev/disk5s2 on /Volumes/.timemachine/F424328C-587A-4775-B7B5-0B4D1AD6C0FA/2021-09-20-163240.backup (apfs, local, read-only, journaled, nobrowse)\
+| 11:45:35 PM | Info |       com.apple.TimeMachine.2021-09-21-084210.backup@/dev/disk5s2 on /Volumes/.timemachine/F424328C-587A-4775-B7B5-0B4D1AD6C0FA/2021-09-21-084210.backup (apfs, local, read-only, journaled, nobrowse)\
+| 11:45:35 PM | Info |       com.apple.TimeMachine.2021-09-21-101134.backup@/dev/disk5s2 on /Volumes/.timemachine/F424328C-587A-4775-B7B5-0B4D1AD6C0FA/2021-09-21-101134.backup (apfs, local, read-only, journaled, nobrowse)\
+| 11:45:35 PM | Info |       com.apple.TimeMachine.2021-09-21-111123.backup@/dev/disk5s2 on /Volumes/.timemachine/F424328C-587A-4775-B7B5-0B4D1AD6C0FA/2021-09-21-111123.backup (apfs, local, read-only, journaled, nobrowse)\
+| 11:45:35 PM | Info |       com.apple.TimeMachine.2021-09-21-121151.backup@/dev/disk5s2 on /Volumes/.timemachine/F424328C-587A-4775-B7B5-0B4D1AD6C0FA/2021-09-21-121151.backup (apfs, local, read-only, journaled, nobrowse)\
+| 11:45:35 PM | Info |       com.apple.TimeMachine.2021-09-21-131256.backup@/dev/disk5s2 on /Volumes/.timemachine/F424328C-587A-4775-B7B5-0B4D1AD6C0FA/2021-09-21-131256.backup (apfs, local, read-only, journaled, nobrowse)\
+| 11:45:35 PM | Info |       com.apple.TimeMachine.2021-09-22-222457.backup@/dev/disk5s2 on /Volumes/.timemachine/F424328C-587A-4775-B7B5-0B4D1AD6C0FA/2021-09-22-222457.backup (apfs, local, read-only, journaled, nobrowse)\
+| 11:45:35 PM | Info |       /dev/disk3s3 on /Volumes/V (hfs, local, nodev, nosuid, journaled, noowners)\
+| 11:45:36 PM | Info |       Enabling permissions on device /dev/disk3s3\
+| 11:45:36 PM | Info |       File system user/group ownership enabled\
+| 11:45:36 PM | Info |       Permissions are enabled on /Volumes/V\
+| 11:45:36 PM | Info | ......COMMAND => Verifying that V ACL support matches Backups of C02WK09EHTD9\
+| 11:45:36 PM | Info | ......COMMAND => Pausing Spotlight indexing for V\
+| 11:45:36 PM | Info | PHASE: 2. Copy Files\
+| 11:45:36 PM | Info | ...ACTION: Copying files from Backups of C02WK09EHTD9 to V  \
+| 11:45:36 PM | Info | ......COMMAND => Cloning Backups of C02WK09EHTD9 to V\
+| 11:45:36 PM | Info |       Copying all files using script: /Users/chanvk/Library/Application Support/SuperDuper!/Copy Scripts/Standard Scripts/Restore - all files.dset\
+| 11:45:36 PM | Info |       Will ignore error codes 1,13 encountered while copying files and directories\
+| 11:45:36 PM | Info |       Loading 37 commands from copy script /Applications/SuperDuper!.app/Contents/Resources/Copy Scripts/Exclude system temporary files.dset\
+| 11:45:36 PM | Info |       Loading 9 commands from copy script /Applications/SuperDuper!.app/Contents/Resources/Copy Scripts/Exclude system cache files.dset\
+| 11:45:36 PM | Info |       Loading 1 commands from copy script /Applications/SuperDuper!.app/Contents/Resources/Copy Scripts/Exclude Norton FileSaver files.dset\
+| 11:45:36 PM | Info |       Loading 2 commands from copy script /Applications/SuperDuper!.app/Contents/Resources/Copy Scripts/Exclude Google Desktop Index files.dset\
+| 11:45:36 PM | Info |       Loading 1 commands from copy script /Applications/SuperDuper!.app/Contents/Resources/Copy Scripts/Exclude Backblaze files.dset\
+| 11:45:36 PM | Info |       Loading 1 commands from copy script /Applications/SuperDuper!.app/Contents/Resources/Copy Scripts/Exclude iTunes Temporary files.dset\
+| 11:45:36 PM | Info |       Loading 2 commands from copy script /Applications/SuperDuper!.app/Contents/Resources/Copy Scripts/Exclude Mozy Cache and Log files.dset\
+| 11:45:36 PM | Info |       Loading 1 commands from copy script /Applications/SuperDuper!.app/Contents/Resources/Copy Scripts/Exclude PGP Whole Disk Encryption files.dset\
+| 11:45:36 PM | Info |       Loading 2 commands from copy script /Applications/SuperDuper!.app/Contents/Resources/Copy Scripts/Exclude Local Revision and Backup files.dset\
+| 11:45:36 PM | Info |       Loading 1 commands from copy script /Applications/SuperDuper!.app/Contents/Resources/Copy Scripts/Exclude Transporter Library mount.dset\
+| 11:45:36 PM | Info |       Loading 1 commands from copy script /Applications/SuperDuper!.app/Contents/Resources/Copy Scripts/Exclude Crash Plan Cache.dset\
+| 11:45:36 PM | Info |       Loading 0 commands from copy script /Applications/SuperDuper!.app/Contents/Resources/Copy Scripts/Backup - all files.dset\
+| 11:45:36 PM | Info |       Loading 1 commands from copy script /Users/chanvk/Library/Application Support/SuperDuper!/Copy Scripts/Standard Scripts/Restore - all files.dset\
+| 11:45:36 PM | Info |       /.Spotlight-V100\
+| 11:45:36 PM | Info |       Preserving /.Spotlight-V100\
+| 11:45:37 PM | Info |       /2021-09-22-222457.previous\
+| 12:03:03 AM | Info |       /2021-09-21-131256.previous\
+| 12:03:07 AM | Info |       Evaluated 950768 items occupying 121.64 GB (101845 directories, 793392 files, 55531 symlinks)\
+| 12:03:07 AM | Info |       Copied  848803 items totaling  117.12 GB (101830 directories, 793272 files, 55531 symlinks)\
+| 12:03:07 AM | Info |       Cloned  119.57 GB of data in 1051 seconds at an effective transfer rate of 113.77 MB/s\
+| 12:03:08 AM | Info | ......COMMAND => Resetting Custom Icon bit on V\
+| 12:03:08 AM | Info | Copy complete.\
+}

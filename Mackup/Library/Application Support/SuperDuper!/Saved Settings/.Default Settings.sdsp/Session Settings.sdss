@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SDASRimageFile</key>
+	<string></string>
+	<key>SDASRimageFileFormat</key>
+	<string>UDRO</string>
+	<key>SDIgnoreMissingVolume</key>
+	<false/>
+	<key>SDRunOnMount</key>
+	<false/>
+	<key>SDScheduledJob</key>
+	<data>
+	YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMS
+	AAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAGkCwwRElUkbnVsbNINDg8QXxAX
+	Y3JvbkVudHJ5UmVwcmVzZW50YXRpb25WJGNsYXNzgAKAA18QGjMwCTIxCSoJKgkxLDIs
+	Myw0LDUJKG51bGwp0hMUFRZaJGNsYXNzbmFtZVgkY2xhc3Nlc1lTRENyb25Kb2KiFRdY
+	TlNPYmplY3QIERokKTI3SUxRU1heY32EhoilqrW+yMsAAAAAAAABAQAAAAAAAAAYAAAA
+	AAAAAAAAAAAAAAAA1A==
+	</data>
+	<key>SDSessionSettingsVersion</key>
+	<integer>4</integer>
+	<key>SDSourceVolume</key>
+	<string>C5074641-0F00-4415-B340-6FD449171530</string>
+	<key>SDTargetVolume</key>
+	<string>B89D2BED-BAAA-4DC4-8BA8-72313328236D</string>
+	<key>SDbeforeCopyScript</key>
+	<string></string>
+	<key>SDcopyMode</key>
+	<integer>0</integer>
+	<key>SDcopyScript</key>
+	<string>/Users/chanvk/Library/Application Support/SuperDuper!/Copy Scripts/Standard Scripts/Restore - all files.dset</string>
+	<key>SDinstallerPackage</key>
+	<string></string>
+	<key>SDshouldCopyACLs</key>
+	<true/>
+	<key>SDshouldCreateASRimage</key>
+	<false/>
+	<key>SDshouldInstallPackage</key>
+	<false/>
+	<key>SDshouldInvokeBeforeCopyScript</key>
+	<false/>
+	<key>SDshouldInvokeSiteCustomizationScript</key>
+	<false/>
+	<key>SDshouldRepairSourcePermissions</key>
+	<false/>
+	<key>SDshouldRunAtScheduledTime</key>
+	<false/>
+	<key>SDsiteCustomizationScript</key>
+	<string></string>
+	<key>SDsourceVolumeName</key>
+	<string>Backups of C02WK09EHTD9</string>
+	<key>SDtargetVolumeIsUnmountable</key>
+	<true/>
+	<key>SDtargetVolumeName</key>
+	<string>V</string>
+	<key>SDuponSuccessAction</key>
+	<integer>0</integer>
+</dict>
+</plist>
